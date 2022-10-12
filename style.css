@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+*{
+    font-family: 'Nunito Sans', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    border: 2px solid black;
+    padding: 0;
+    margin: 0;
+}
+.wrapper{
+    border: 2px solid red;
+
+}
+.container{
+    border: 2px solid tan;
+}
+.logo{
+    border: 2px solid blue;
+}
+.menu{
+    border: 2px solid lightseagreen;
+}
+.menu_m{
+
+}
+li{
+
+}
+.btn{
+
+}
+.download{
+
+}
+.block_container{
+    border: 2px solid hotpink;
+}
+.first_block{
+    border: 2px solid salmon;
+}
+.img_unicorn{
+
+}
+.second_block{
+    border: 2px solid black;
+}
+.text{
+
+}
+.third_block{
+    border: 2px solid salmon;
+}
+.fourth_block{
+    border: 2px solid salmon;
+}
+.fifth_block{
+    border: 2px solid salmon;
+}
+.learn{
+
+}
+.six_block{
+    border: 2px solid salmon;
+}
+.block_ot{
+    border: 2px solid salmon;
+}
+.uni{
+
+}
+.seven_block{
+    border: 2px solid salmon;
+}
+.dis{
+
+}
+.eight_block{
+    border: 2px solid salmon;
+}
+.meet{
+
+}
+footer{
+    border: 2px solid salmon;
+}
+.buttons{
+
+}
+.mini{
+
+}
