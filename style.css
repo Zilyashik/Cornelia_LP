@@ -10,16 +10,31 @@ body{
 }
 .wrapper{
     border: 2px solid red;
-
 }
 .container{
     border: 2px solid tan;
+    max-width: 1240px;
+    height: 100%;
+    margin: 0 auto;
+}
+header{
+    border: 2px solid blueviolet;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 98px;
 }
 .logo{
     border: 2px solid blue;
+    max-width: 135px;
 }
 .menu{
     border: 2px solid lightseagreen;
+    max-width: 381px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 .menu_m{
 
@@ -28,7 +43,7 @@ li{
 
 }
 .btn{
-
+    border-radius: 124px;
 }
 .download{
 
@@ -38,9 +53,17 @@ li{
 }
 .first_block{
     border: 2px solid salmon;
+    background-image: url("image/taptap1.png");
+}
+.block_center{
+    width: 50%;
+    margin: 0 auto;
 }
 .img_unicorn{
-
+ max-width: 100%;
+}
+.unicorn_head{
+    max-width: 100%;
 }
 .second_block{
     border: 2px solid black;
